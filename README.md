@@ -65,8 +65,4 @@ thegoodengineer@github --------------------
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoodengineer&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoodengineer&layout=compact&theme=dark&hide_border=true)
-
 </div>
