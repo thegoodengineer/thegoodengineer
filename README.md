@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhijeet+%F0%9F%91%8B;Engineering+Undergrad;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+<img width="972" height="962" alt="image" src="https://github.com/user-attachments/assets/e25ca52d-fd7d-4581-a3e6-85a65c570845" />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thegoodengineer&color=F7B32B&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/thegoodengineer?label=Followers&style=flat-square&color=F7B32B)
