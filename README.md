@@ -1,8 +1,5 @@
 <div align="center">
 
-<img width="972" height="962" alt="image" src="https://github.com/user-attachments/assets/e25ca52d-fd7d-4581-a3e6-85a65c570845" />
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=thegoodengineer&color=F7B32B&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/thegoodengineer?label=Followers&style=flat-square&color=F7B32B)
 
@@ -14,7 +11,7 @@
 <tr>
 <td width="45%" valign="top">
 
-<img src="./profile-art.png" width="100%" />
+<img src="https://github.com/user-attachments/assets/e25ca52d-fd7d-4581-a3e6-85a65c570845" width="100%" />
 
 </td>
 <td width="55%" valign="top">
