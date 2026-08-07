@@ -41,7 +41,7 @@ thegoodengineer@github --------------------
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,11 +54,7 @@ thegoodengineer@github --------------------
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegoodengineer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-
-<br><br>
-
-### 🔥 Contribution Graph
+### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thegoodengineer&theme=react-dark&hide_border=true&bg_color=0D1117" width="90%" />
 
