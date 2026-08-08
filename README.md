@@ -17,20 +17,18 @@
 <td width="55%" valign="top">
 
 <pre>
-thegoodengineer@github --------------------
-. OS: ........................... Windows
+thegoodengineer@github
+. OS: ............................ Windows
 . Uptime: ........................ 2 years, 8 months
 . Host: .......................... Engineering Undergrad
-.
 . Languages.Programming: ......... C++, Python, JavaScript, TypeScript
 . Languages.Computer: ............ HTML, CSS, JSON, YAML
-.
 . Hobbies.Software: .............. Competitive Programming, Open Source
 
-- Contact ---------------------------
-. LinkedIn: ....................... linkedin.com/in/okayabhijeet
-. Discord: ........................ thegoodengineer
-. X: .............................. @guywspecs
+contact
+. LinkedIn: ...................... linkedin.com/in/okayabhijeet
+. Discord: ....................... thegoodengineer
+. X: ............................. @guywspecs
 </pre>
 
 </td>
@@ -38,5 +36,5 @@ thegoodengineer@github --------------------
 </table>
 
 <div align="center">
-<sub>Built with too much coffee and not enough sleep</sub>
+<sub>hi lol</sub>
 </div>
