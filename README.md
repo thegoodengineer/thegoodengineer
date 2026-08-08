@@ -37,20 +37,6 @@ thegoodengineer@github --------------------
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<br>
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thegoodengineer&theme=react-dark&hide_border=true&bg_color=0D1117" width="90%" />
-
-</div>
-
-<br>
-
 <div align="center">
 <sub>Built with too much coffee and not enough sleep</sub>
 </div>
