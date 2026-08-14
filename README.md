@@ -18,7 +18,6 @@
 
 <pre>
 thegoodengineer@github
-. OS: ............................ Windows
 . Uptime: ........................ 2 years, 8 months
 . Host: .......................... Engineering Undergrad
 . Languages.Programming: ......... C++, Python, JavaScript, TypeScript
